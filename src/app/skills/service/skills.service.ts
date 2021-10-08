@@ -28,7 +28,7 @@ export class SkillsService {
     return this.skills.map(skill => skill.name);
   }
 
-  // getSkill(skill: string): Skills {
-  //   return this.skills.filter(skillElement => skillElement.name === skill)[0];
-  // }
+  getExperience(pSkill: string) {
+    return this.skills.filter(skill => skill.name === pSkill)[0].experience;
+  }
 }
