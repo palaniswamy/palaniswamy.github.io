@@ -1,0 +1,22 @@
+{
+  "skills" : [
+    {
+      "name": "JavaScript",
+      "experience": [
+        "I play with Java script frameworks and libraries now and then."
+      ]
+    },
+    {
+      "name": "Java",
+      "experience": [
+        "I worked with core Java in couple of projects, including an open source library. I dont have java enterprise edition experience."
+      ]
+    },
+    {
+      "name": "Postgres",
+      "experience": [
+        "I have used Postgres as database in cloud projects."
+      ]
+    }
+  ]
+}
